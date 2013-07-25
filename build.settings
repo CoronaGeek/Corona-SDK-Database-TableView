@@ -1,0 +1,16 @@
+-- build.settings for project: Ch12 Read SQ Lite
+-- Managed with http://CoronaProjectManager.com
+-- Copyright 2011 Brian Burton. All Rights Reserved.
+-- cpmgen build.settings
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+		supported =
+		{
+			"portrait"
+		},
+	},
+
+}
