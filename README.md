@@ -1,5 +1,3 @@
-corona-sdk-database-tableview
-=============================
 A demonstration of working with SQLite and Corona SDK for iOS & Android devices
 by Brian G. Burton, Ed.D.   http://www.BurtonsMediaGroup.com/blog
 
